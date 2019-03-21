@@ -1,4 +1,4 @@
-# Reveals.js templae
+# Reveals.js template
 
 - Clone this repo
 - Remove git
